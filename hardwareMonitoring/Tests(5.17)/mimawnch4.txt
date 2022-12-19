@@ -1,0 +1,1372 @@
+canpc37              Tue May 17 21:11:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 41'C,   0 % |   421 / 24576 MB | gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 40'C,   0 % |   421 / 24576 MB | gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 40'C,   0 % |   421 / 24576 MB | gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 40'C,   0 % |   421 / 24576 MB | gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 40'C,   0 % |   421 / 24576 MB | gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 40'C,   0 % |   421 / 24576 MB | gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 40'C,   0 % |   421 / 24576 MB | gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 40'C,   0 % |   433 / 24576 MB | kaleb:python(10M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 41'C,   1 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 42'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,   0 % |   584 / 24576 MB | kaleb:python(161M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,   1 % |   726 / 24576 MB | kaleb:python(303M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,   2 % |   854 / 24576 MB | kaleb:python(431M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,   0 % |   854 / 24576 MB | kaleb:python(431M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:27 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,   0 % |   854 / 24576 MB | kaleb:python(431M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:28 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,   0 % |  1026 / 24576 MB | kaleb:python(603M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:29 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,   3 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:30 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:31 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:32 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:33 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:34 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:35 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:36 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,  13 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:37 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,  14 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:38 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:39 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:40 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:41 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:42 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:43 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:44 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:45 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:46 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:47 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:48 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:49 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:50 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:51 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:52 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:53 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:54 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:55 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:56 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:57 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:58 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:11:59 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:27 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:28 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:29 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:30 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:31 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:32 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:33 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:34 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:35 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:36 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:37 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:38 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:39 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:40 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:41 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:42 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:43 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:44 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:45 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:46 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:47 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:48 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:49 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:50 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:51 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:52 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:53 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:54 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:55 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:56 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:57 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:58 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:12:59 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:27 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:28 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:29 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:30 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:31 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:32 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:33 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:34 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:35 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:36 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:37 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:38 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:39 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:40 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:41 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:42 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:43 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:44 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:45 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:46 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:47 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:48 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:49 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:50 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:51 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:52 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:53 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:54 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:55 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:56 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:57 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:58 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:13:59 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:27 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:28 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:29 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:30 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:31 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:32 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:33 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:34 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:35 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:36 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:37 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:38 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:39 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:40 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:41 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:42 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:43 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:44 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:45 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:46 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:47 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:48 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:49 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:50 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:51 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:52 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:53 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:54 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:55 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  21 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:56 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:57 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:58 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:14:59 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:27 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:28 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:29 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:30 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:31 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:32 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:33 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:34 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:35 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:36 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:37 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:38 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:39 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:40 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:41 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:42 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:43 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:44 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:45 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:46 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:47 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:48 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:49 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:50 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:51 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:52 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:53 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:54 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:55 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:56 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:57 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:58 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:15:59 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  21 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:27 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:28 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:29 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:30 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:31 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:32 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:33 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:34 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:35 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:36 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:37 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:38 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:39 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:40 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:41 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:42 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:43 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:44 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:45 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:46 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:47 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:48 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:49 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:50 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:51 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:52 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:53 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:54 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:55 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:56 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:57 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:58 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:16:59 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:27 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:28 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:29 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:30 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:31 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:32 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:33 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:34 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:35 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:36 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:37 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:38 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:39 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:40 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:41 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:42 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:43 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:44 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:46 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:47 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:48 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:49 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:50 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:51 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:52 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:53 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:54 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:55 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:56 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:57 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  25 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:58 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:17:59 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  24 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 47'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  26 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  22 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:27 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:28 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:29 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:30 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:31 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  28 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:32 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:33 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:34 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:35 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:36 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:37 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:38 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  27 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:39 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,  23 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:40 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   6 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:41 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:42 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:43 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:44 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:45 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:46 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:47 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:48 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:49 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:50 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:51 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:52 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:53 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:54 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:55 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:56 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:57 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:58 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:18:59 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 46'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:27 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:28 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:29 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:30 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:31 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:32 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:33 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:34 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:35 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:36 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:37 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:38 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:39 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:40 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:41 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:42 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:43 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:44 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:45 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:46 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:47 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:48 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:49 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:50 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:51 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:52 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:53 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:54 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:55 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:56 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:57 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:58 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:19:59 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:27 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:28 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:29 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:30 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:31 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:32 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:33 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:34 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:35 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:36 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:37 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:38 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:39 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:40 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:41 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:42 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:43 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:44 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:45 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:46 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:47 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:48 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:49 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:50 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:51 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:52 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:53 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:54 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:55 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:56 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:57 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:58 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:20:59 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:27 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:28 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:29 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:30 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:31 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:32 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:33 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:34 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:35 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:36 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:37 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:38 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:39 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:40 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:41 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:42 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:43 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:44 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:45 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:46 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:47 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:48 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:49 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:50 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:51 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:52 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:53 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:54 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:55 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:56 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:57 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:58 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:21:59 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:00 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:01 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:02 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:03 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:04 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:05 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:06 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:07 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:08 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:09 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:10 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:11 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:12 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:13 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:14 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:15 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:16 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:17 2022  510.47.03
+[0] NVIDIA TITAN RTX | 44'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:18 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:19 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:20 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   1 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:21 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:22 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:23 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |  1258 / 24576 MB | kaleb:python(835M) gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:24 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   2 % |   421 / 24576 MB | gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:25 2022  510.47.03
+[0] NVIDIA TITAN RTX | 45'C,   0 % |   421 / 24576 MB | gdm:Xorg(45M) gdm:gnome-shell(9M)
+canpc37              Tue May 17 21:22:26 2022  510.47.03
+[0] NVIDIA TITAN RTX | 43'C,   0 % |   421 / 24576 MB | gdm:Xorg(45M) gdm:gnome-shell(9M)

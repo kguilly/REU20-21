@@ -1,0 +1,24 @@
+GPU Monitoring:
+	- man nvidia-smi :: more info
+	- cudaMemGetInfo(&free, &total)_ :: total free memory of the active GPU
+	- cudaSetDevice(gpu_id) :: set a particular CUDA device
+	
+	Command Line
+		- nvidia-smi pmon :: shows utilization with process ID and command name
+		- nvidia-smi dmon -o T -s u :: monitors utilization with time stamps
+		- gpustat
+			- gpustat -c -u --json -i 1
+
+
+CPU Monitoring
+	- pmap [options] PID []
+		- pmap -x (process ID)
+	- free -h -s 3 :: shows the memory usage every three seconds
+	- top
+		W :: write configuration file
+		t t m m :: gets a nice looking chart at top for %used and memory
+
+
+Send out to a file
+	- include > filename.txt to make new 
+	- include >> filename.txt to append

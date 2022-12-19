@@ -1,0 +1,6 @@
+5-17
+    - All parameters of the same station will use the same amount of the gpu's memory
+    - All parameters of the same station will use the same amount of the Cpu's memory
+    - Even when run on gpu, 1 modelet will take up 2Gi of the CPU's memory
+    - All stations will use the same amount of the CPU's and GPU's memory as other stations
+    

@@ -1,0 +1,50 @@
+{
+    "hostname": "canpc37",
+    "query_time": "2022-05-17T20:17:31.509859",
+    "gpus": [
+        {
+            "index": 0,
+            "uuid": "GPU-8717476d-ca0a-cf93-0030-353c1d8ea3a9",
+            "name": "NVIDIA TITAN RTX",
+            "temperature.gpu": 66,
+            "fan.speed": 43,
+            "utilization.gpu": 95,
+            "power.draw": 174,
+            "enforced.power.limit": 280,
+            "memory.used": 2928,
+            "memory.total": 24576,
+            "processes": [
+                {
+                    "username": "kaleb",
+                    "command": "python",
+                    "gpu_memory_usage": 835,
+                    "pid": 3626039
+                },
+                {
+                    "username": "kaleb",
+                    "command": "python",
+                    "gpu_memory_usage": 835,
+                    "pid": 3626041
+                },
+                {
+                    "username": "kaleb",
+                    "command": "python",
+                    "gpu_memory_usage": 835,
+                    "pid": 3626040
+                },
+                {
+                    "username": "gdm",
+                    "command": "Xorg",
+                    "gpu_memory_usage": 45,
+                    "pid": 1942
+                },
+                {
+                    "username": "gdm",
+                    "command": "gnome-shell",
+                    "gpu_memory_usage": 9,
+                    "pid": 2039
+                }
+            ]
+        }
+    ]
+}
